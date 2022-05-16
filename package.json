@@ -6,7 +6,7 @@
   "dependencies": {
     "cosmicjs": "^3.2.7",
     "cross-env": "^5.2.0",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "express": "^4.16.3",
     "nodemon": "^1.17.4",
     "opn": "^5.3.0"
